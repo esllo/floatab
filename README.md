@@ -1,5 +1,7 @@
 # Floatab
 
+[English](README.md) | [한국어](README.ko.md)
+
 Floatab is a project that launch multiple websites with additional features.
 
 ## Description
